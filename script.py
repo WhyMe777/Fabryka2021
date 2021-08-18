@@ -1,4 +1,3 @@
-zmienna = "Ala ma kota"
+cities = {'city': ['Kraków', 'Warszawa', 'Rzeszów', 'Poznań']}
 
-zmienna.count(A, a)
-print(zmienna)
+print(cities['city'][0])
