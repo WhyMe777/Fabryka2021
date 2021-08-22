@@ -1,5 +1,4 @@
 # Cześć Paweł. Poniżej przygotowany kalkulator.
-from math import sqrt
 
 def add(x, y):
     return x + y
