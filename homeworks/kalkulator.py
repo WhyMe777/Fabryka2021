@@ -14,10 +14,10 @@ def divide(x, y):
 
 print("""
 Wybierz operację:
-  1.Dodawanie
-  2.Odejmowanie
-  3.Mnożenie
-  4.Dzielenie
+ (1) dodawanie
+ (2) odejmowanie
+ (3) mnożenie
+ (4) dzielenie
 """)
 
 while True:
@@ -46,7 +46,3 @@ while True:
 Wybrałeś niepoprawny numer działania.
 Wybierz ponownie.
         ''')
-
-#
-# else:
-#     print("Błędna wartość, podaj poprawną")
