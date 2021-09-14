@@ -23,3 +23,4 @@ print(object3)
 # Podsumowanie: Klasy w programach obiektowych służą do tworzenia "szablonów",
 # w których będą tworzone obiekty, z kolei obiekty będą podstawową jednostką funkcjonalną.
 
+
