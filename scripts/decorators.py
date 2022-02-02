@@ -1,5 +1,5 @@
 # Lekcja 5.4
-# W trakcie pisania kodu błędy mogą się zdarzać b. często. Czasem mogą być to błędy podane przez użytkonika programu,
+# W trakcie pisania kodu błędy mogą się zdarzać b. często. Czasem mogą być to błędy podane przez użytkownika programu,
 # a czasem może to być sytuacja wyjątkowa, której nie przewidzieliśmy w trakcie pisania programu.
 # Np. funkcja dzielenia, gdzie możemy zapomnieć o dodaniu wyjątku dla dzielenia przez "0". (WYJĄTEK)
 # Do tego należy obsługa wyjątków, które należy tutaj wywołać.
